@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @pietronickl
+-
 - 👀 I’m interested in natural language processing, ML, modeling cultural evolution, running online experiments, pyhton, R
 - 
 - 🌱 I’m currently learning about agent based modeling in R, mingus (music in python)
 - 
-- 💞️ I’m looking to collaborating at anything humanities-meets-science
+- 💞 any humanities-meets-science collaboration
 - 
 - 📫 How to reach me pietro . nickl (at) gmx . de 
 
