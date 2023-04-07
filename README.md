@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pietronickl
 -
-- 👀 I’m interested in natural language processing, ML, modeling cultural evolution, running online experiments, pyhton, R
+- 👀 I’m interested in natural language processing, ML, modeling cultural evolution, agent-based modeling and running online experiments using python & R
 - 
-- 🌱 I’m currently learning about agent based modeling in R, mingus (music in python)
+- 🌱 I’m learning about agent based modeling in R, mingus (music in python)
 - 
 - 💞 any humanities-meets-science collaboration
 - 
